@@ -12,14 +12,10 @@ Description: Stylish Child Theme based on Twenty Nineteen
 
 */
 
-
-
 .entry .entry-title:before {
+  display: none;
+}
 
-
-    display: none;
-
-  
-  }
-
-  
+body {
+  background-color: aqua;
+}
